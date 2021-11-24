@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning sql, javascript
 - 💞️ I’m looking to collaborate on any work
 - 📫 How to reach me send smething here!
+<!-- - Now I'm learning PHP~~~ it's fun! any backend languages you'd suggest -->
 
 <!---
 samreindorf/samreindorf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
